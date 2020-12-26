@@ -1,6 +1,6 @@
 ---
-title: Contact Us
-description: this is meta description
+title: 聯絡資訊
+description: StarAtt 聯絡資訊
 image: images/contact.svg
 menu:
   footer:
