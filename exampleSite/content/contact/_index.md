@@ -4,7 +4,6 @@ description: this is meta description
 image: images/contact.svg
 menu:
   footer:
-    URL: contact
     name: 聯絡我
     weight: 1
 
