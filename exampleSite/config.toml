@@ -5,18 +5,8 @@ paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "StarAtt"
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
+[menu]
+footer = []
 [[menu.main]]
 URL = "tools"
 name = "tools"
@@ -64,9 +54,6 @@ enable = false
 preloader = ""
 [params.search]
 enable = true
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
 [[params.social]]
 icon = "ti-github"
 link = "https://github.com/StarAtty"
