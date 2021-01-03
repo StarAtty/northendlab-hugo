@@ -25,7 +25,7 @@ logo = "images/staratt.png"
 [params.banner]
 bgImage = "images/cover.jpg"
 image = "images/banner/illustration.svg"
-title = "StarAtt 楓綾"
+title = ""
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = false
