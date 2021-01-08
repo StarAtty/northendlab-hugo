@@ -27,14 +27,14 @@ bgImage = "images/cover.jpg"
 image = "images/banner/illustration.svg"
 title = ""
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = false
+description = "在文章底部拍手或點擊此按鈕訂閱，幫助我獲得收入。"
+enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = "贊助我"
 [params.cta.button]
 enable = true
-label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+label = "訂閱讚賞公民"
+link = "https://liker.land/tea55688/civic"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
